@@ -3,7 +3,7 @@
            xsi:noNamespaceSchemaLocation="../xsd/usergroup.xsd" plural="true">
     <name>Funkamateure DARC Ortsverband Frankfurt</name>
     <nickname>F05</nickname>
-    <description>Ca. 90 Funkamateure aus Frankfurt und Umgebung, die im DARC organsiert sind, treffen sich
+    <description>Ca. 85 Funkamateure aus Frankfurt und Umgebung, die im DARC organsiert sind, treffen sich
         gemeinsam und partizipieren an Funkwettbewerben sowie Bastelprojekten und richten Lehrveranstaltungen aus.
     </description>
     <url>http://www.F05.de</url>
@@ -12,7 +12,7 @@
     </tags>
     <contact>
         <mailinglist>
-            <url>http://de.groups.yahoo.com/group/F05/</url>
+            <url>https://f05.groups.io/</url>
             <label>Mailingliste</label>
             <description>zum Austausch von Informationen und Terminen</description>
         </mailinglist>
